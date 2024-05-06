@@ -6,4 +6,5 @@ jobs:
     steps: 
       - name: Check out repository code
         uses: actions/checkout@v3
-      - run: echo "$(cat devops_tools.txt)"
+      - name: Provide the list of DevOps Categories
+        run: echo "$(cat devops_tools.txt)"
