@@ -1,0 +1,23 @@
+DevOps Tools categories:
+
+Version Control Systems & Code Repository Management
+Containerization
+Infrastructure as Code (IaC)
+Configuration Management
+Container Orchestration
+Continuous Integration & Continuous Delivery (CI/CD)
+Cloud Providers
+Observability
+Log Management
+Collaborative Infrastructure
+Software Testing & Quality Assurance
+Developer Environment
+Integrated Development Environment (IDE)
+Security & Vulnerability Scanning
+Service Mesh
+Secret Management
+Infrastructure Access Management
+Application Deployment & Progressive Delivery
+Serverless Solutions
+Chaos Engineering
+AI-Powered Code Completion tools
